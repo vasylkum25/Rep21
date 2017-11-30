@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<catalog>
+   <user id="u-1">
+      <name>Vasyl</name>
+      <age>26</age>
+   </user>
+   <user id="u-2">
+      <name>Petro</name>
+      <age>25</age>
+   </user>
+  <user id="u-3">
+      <name>Ivan</name>
+      <age>27</age>
+   </user>
+</catalog>
